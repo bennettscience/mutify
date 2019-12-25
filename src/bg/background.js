@@ -1,7 +1,5 @@
 function handleMessage(request, sender, sendResponse) {
   
-  console.log(`content script sent a message: ${request.content}`);
-  
   const regex = /Advertisement/;
   
   if(regex.exec(sender.tab.title)) {
