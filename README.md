@@ -31,7 +31,7 @@ Nothing. It only runs on URLs matching `https://*.spotify.com/*` and doesn't tra
 
 ## Extensions have icons. Where is the icon for this?
 
-Because there is no interaction needed on your part, there is no browser icon. There's nothing to click, nothing to see. Mutify runs in the background happily. You didn't do anthi
+Because there is no interaction needed on your part, there is no browser icon. There's nothing to click, nothing to see. Mutify runs in the background happily. You didn't do anthing wrong.
 
 ## I love this. Can I pay you?
 
