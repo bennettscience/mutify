@@ -1,6 +1,6 @@
 {
   "name": "Mutify",
-  "version": "0.1",
+  "version": "0.2",
   "manifest_version": 2,
   "description": "Automatically mute ads played through the Spotify Web Player",
   "homepage_url": "https://github.com/bennettscience/mutify",
